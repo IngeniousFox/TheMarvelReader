@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMarvelReader.API", "TheMarvelReader.API\TheMarvelReader.API.csproj", "{2ADE3D1C-28E4-4B83-89CB-556C311FA4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMarvelReader.Domain", "TheMarvelReader.Domain\TheMarvelReader.Domain.csproj", "{0D9D80AB-CBCC-46C0-8F55-0D425F5F5389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMarvelReader.Infrastructure", "TheMarvelReader.Infrastructure\TheMarvelReader.Infrastructure.csproj", "{4A483255-84BF-4070-B7E6-FF1E8318EF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMarvelReader.Application", "TheMarvelReader.Application\TheMarvelReader.Application.csproj", "{EF06EB5E-8B88-4B2C-89CA-DA5D3CD0957E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADE3D1C-28E4-4B83-89CB-556C311FA4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADE3D1C-28E4-4B83-89CB-556C311FA4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADE3D1C-28E4-4B83-89CB-556C311FA4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADE3D1C-28E4-4B83-89CB-556C311FA4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9D80AB-CBCC-46C0-8F55-0D425F5F5389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9D80AB-CBCC-46C0-8F55-0D425F5F5389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9D80AB-CBCC-46C0-8F55-0D425F5F5389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9D80AB-CBCC-46C0-8F55-0D425F5F5389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A483255-84BF-4070-B7E6-FF1E8318EF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A483255-84BF-4070-B7E6-FF1E8318EF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A483255-84BF-4070-B7E6-FF1E8318EF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A483255-84BF-4070-B7E6-FF1E8318EF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF06EB5E-8B88-4B2C-89CA-DA5D3CD0957E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF06EB5E-8B88-4B2C-89CA-DA5D3CD0957E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF06EB5E-8B88-4B2C-89CA-DA5D3CD0957E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF06EB5E-8B88-4B2C-89CA-DA5D3CD0957E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
